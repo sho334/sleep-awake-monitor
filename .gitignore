@@ -1,0 +1,5 @@
+*
+!.gitignore
+!README.md
+!drowsiness_monitor.py
+!run_drowsiness_monitor.sh
